@@ -1,3 +1,5 @@
+# REFERENCE: https://towardsdatascience.com/training-tensorflow-object-detection-api-with-custom-dataset-for-working-in-javascript-and-vue-js-6634e0f33e03
+
 from PIL import Image
 import os
 import argparse
